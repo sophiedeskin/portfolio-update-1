@@ -1,6 +1,6 @@
 # portfolio-update-1
 
-file:///C:/Users/16618/bootcamp/homeworks/portfolio-update-1/index.html
+https://sophiedeskin.github.io/portfolio-update-1/
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
